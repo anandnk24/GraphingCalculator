@@ -1,4 +1,4 @@
-# GraphingCalculator
+# GraphingCalc
 VBScript Graphing Calculator 
 
 This is a graphing application that performs Calculus operations based on input functions and generates the graphs of those functions. It was programmed using the VBScript language. The most difficult aspects of this project included the maxima and minima of derivative tests and the colors associated with each aspect of the graphs. 
